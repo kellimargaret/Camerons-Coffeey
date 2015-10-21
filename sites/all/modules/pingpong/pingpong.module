@@ -30,7 +30,6 @@ function pingpong_form() {
     '#type' => 'submit',
     '#value' => 'Go',
   );
-
   return $form;
 }
 
